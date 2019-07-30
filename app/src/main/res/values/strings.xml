@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">No Distraction</string>
+    <string name="activate_no_distraction_mode">Activate No distraction Mode</string>
+    <string name="deactivate_no_distraction_mode">Deactivate No distraction Mode</string>
+    <string name="app_blocked">This application is added to your blacklist</string>
+    <string name="app_unblocked">This application is removed to your blacklist</string>
+    <string name="block_button_text">Block</string>
+    <string name="unblock_button_text">Unblock</string>
+</resources>
